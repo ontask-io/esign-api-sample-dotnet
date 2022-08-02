@@ -82,7 +82,14 @@ async Task<String> StartSignatureRequest(String documentID)
     // Build JSON request for creating an signature request
     JsonObject requestBody = new JsonObject
     {
-        ["documentId"] = documentID,
+        ["documents"] = new JsonArray {
+            {
+                new JsonObject
+                {
+                    ["documentId"] = documentID
+                }
+            }
+        },
         ["testMode"] = true,
         ["signers"] = new JsonArray
         {
