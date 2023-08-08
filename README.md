@@ -1,4 +1,4 @@
-[<img src="https://s3.amazonaws.com/usdphosting.accusoft-ontask/wp-content/uploads/Ontask-API-Logo-2.png.webp" width="600"/>](https://www.ontask.io/solutions/ontask-api/)
+[<img src="https://ontaskio.wpenginepowered.com/wp-content/uploads/2022/09/Logo-Product-Tabs.svg" width="600"/>](https://www.ontask.io/solutions/ontask-api/)
 
 # OnTask eSignature API .NET Sample
 
